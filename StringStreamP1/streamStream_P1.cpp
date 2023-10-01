@@ -3,6 +3,9 @@
 #include <iostream>
 using namespace std;
 
+
+// stuff 
+
 vector<int> parseInts(string str) {
 	// Complete this function
     vector<int> s; 
